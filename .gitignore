@@ -1,0 +1,13 @@
+
+.env
+.env.*
+
+
+*.log
+logs/
+
+
+tmp/
+temp/
+*.tmp
+*.swp
